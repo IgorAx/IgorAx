@@ -86,13 +86,3 @@ Sou um desenvolvedor Full Stack com experiência em diversas tecnologias, sempre
         <b><br>let me hold you (feat. Insowmya)</b></p>
     <br>
     <br>
-
-
-## Contato - em desenvolvimento
-
-- [Meu Site](https://meusite.com)
-- [LinkedIn](https://www.linkedin.com/in/seu_perfil/)
-- [Twitter](https://twitter.com/seu_perfil)
-
-![Badge](https://img.shields.io/badge/Desenvolvedor-Frontend-blue)
-![Badge](https://img.shields.io/badge/Desenvolvedor-Backend-green)
