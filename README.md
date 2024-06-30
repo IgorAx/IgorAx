@@ -56,9 +56,37 @@ Sou um desenvolvedor Full Stack com experiência em diversas tecnologias, sempre
   <span>Premiere: Edição de vídeos com ferramentas avançadas de pós-produção.</span>
 </div>
 
-## Em Construção
+## Musicas do meu gosto
 
-Meu perfil no GitHub ainda está em construção. Estou trabalhando para adicionar mais projetos e informações em breve. Fique ligado!
+<div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <p align="right">
+        <a href = "https://www.youtube.com/watch?v=KbKT-Z4VH_8">
+            <img src = "https://i.ytimg.com/vi/KbKT-Z4VH_8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-8HALNvl-7EKP_C5L_hfUcV2GWA" width = "170" align = "left">
+        </a>
+        <b><br>Koi Pond</b>
+    </p>
+    <br>
+    <br>
+    <p align="left">
+        <a href = "https://www.youtube.com/watch?v=QmoM8XzAeRc">
+            <img  src ="https://i.ytimg.com/vi/1o95Xo7oG64/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADwhbI3DtuD2HUV8EI_mzm3dz8Sw" width="170" align="right">
+        </a>
+        <b><br><br>Voyage - Enter</b>
+    </p>
+    <br>
+    <br>
+    <p align="right">
+        <a href="https://www.youtube.com/watch?v=zsXZC7oZ5qc">
+            <img src="https://i.ytimg.com/vi/zsXZC7oZ5qc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJFHGl4LS9i7L7ABSsyidFXR4ayw" width="170" align="left">
+        </a>
+        <b><br>let me hold you (feat. Insowmya)</b></p>
+    <br>
+    <br>
+
 
 ## Contato
 
