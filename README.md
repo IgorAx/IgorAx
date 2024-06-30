@@ -65,6 +65,8 @@ Sou um desenvolvedor Full Stack com experiência em diversas tecnologias, sempre
   <img align="center" alt="Premiere" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg">
   <span>Premiere: Edição de vídeos com ferramentas avançadas de pós-produção.</span>
 </div>
+<br>
+<br>
 
 ## Songs I'm listening to
 
