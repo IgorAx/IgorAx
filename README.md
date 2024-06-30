@@ -66,7 +66,7 @@ Sou um desenvolvedor Full Stack com experiência em diversas tecnologias, sempre
   <span>Premiere: Edição de vídeos com ferramentas avançadas de pós-produção.</span>
 </div>
 
-## Musicas do meu gosto
+## Songs I'm listening to
 
 <div>
     <br>
