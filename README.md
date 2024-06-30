@@ -88,7 +88,7 @@ Sou um desenvolvedor Full Stack com experiência em diversas tecnologias, sempre
     <br>
 
 
-## Contato
+## Contato - em desenvolvimento
 
 - [Meu Site](https://meusite.com)
 - [LinkedIn](https://www.linkedin.com/in/seu_perfil/)
