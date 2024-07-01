@@ -1,8 +1,4 @@
 # Olá, eu sou o Igor! 👋
-<div align="right">
-    <img src="https://media1.tenor.com/m/CYo5S62s2j8AAAAC/chill-relax.gif" width="1000px" height="250">
-</div>
-
 ### ⚙️ GitHub Analytics
 
 <table>
@@ -32,6 +28,11 @@
   </tr>
 </table>
 
+## About me
+
+<div align="right">
+    <img src="https://media1.tenor.com/m/CYo5S62s2j8AAAAC/chill-relax.gif" width="1000px" height="250">
+</div>
 
 Sou um desenvolvedor Full Stack com experiência em diversas tecnologias, sempre apaixonado por aprender e criar.
 
