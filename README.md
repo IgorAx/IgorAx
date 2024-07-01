@@ -91,8 +91,6 @@ Sou um desenvolvedor Full Stack com experiência em diversas tecnologias, sempre
 <div>
     <br>
     <br>
-    <br>
-    <br>
     <p align="right">
         <a href = "https://www.youtube.com/watch?v=KbKT-Z4VH_8">
             <img src = "https://i.ytimg.com/vi/KbKT-Z4VH_8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-8HALNvl-7EKP_C5L_hfUcV2GWA" width = "170" align = "left">
