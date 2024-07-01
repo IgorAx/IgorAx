@@ -1,5 +1,9 @@
 # Olá, eu sou o Igor! 👋
 
+<div align="left">
+    <img src="https://media1.tenor.com/m/7wYCjl6P-G8AAAAd/dead-lofi.gif" width="300px">
+</div>
+
 ### ⚙️ GitHub Analytics
 
 <table>
