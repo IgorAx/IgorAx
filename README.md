@@ -36,7 +36,8 @@ Sou um desenvolvedor Full Stack com experiência em diversas tecnologias, sempre
 - 🎓 Sempre em busca de novos conhecimentos e desafios
 
 ## Skills
-
+<br>
+<br>
 <div>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <span>HTML: Linguagem de marcação para criar estruturas de páginas web.</span>
@@ -87,7 +88,6 @@ Sou um desenvolvedor Full Stack com experiência em diversas tecnologias, sempre
 <br>
 
 ## Songs I'm listening to
-
 <div>
     <br>
     <br>
