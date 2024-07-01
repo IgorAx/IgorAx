@@ -1,6 +1,6 @@
 # Olá, eu sou o Igor! 👋
 <div align="right">
-    <img src="https://media1.tenor.com/m/TAIxD-ulneYAAAAC/anime-anime-background.gif" width="1000px" height="250">
+    <img src="https://media1.tenor.com/m/CYo5S62s2j8AAAAC/chill-relax.gif" width="1000px" height="250">
 </div>
 
 ### ⚙️ GitHub Analytics
