@@ -31,7 +31,7 @@
 ## About me
 
 <div align="right">
-    <img src="https://media1.tenor.com/m/JTQXBHSZVeEAAAAC/durarara-izaya.gif" width="1000px" height="250">
+    <img src="https://media1.tenor.com/m/CYo5S62s2j8AAAAC/chill-relax.gif" width="1000px" height="250">
 </div>
 
 Sou um desenvolvedor Full Stack com experiência em diversas tecnologias, sempre apaixonado por aprender e criar.
