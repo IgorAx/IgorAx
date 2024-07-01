@@ -118,12 +118,3 @@ Sou um desenvolvedor Full Stack com experiência em diversas tecnologias, sempre
         <b><br>let me hold you (feat. Insowmya)</b></p>
     <br>
     <br>
-  <br>
-  <hr>
-  <a href="https://www.youtube.com/@Adapte/videos">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-<a/>
-  <br>
-  <a href="mailto:igorferreirabrbrandao2005@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
